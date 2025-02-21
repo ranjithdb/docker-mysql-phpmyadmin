@@ -7,7 +7,7 @@ This project sets up a MySQL database with phpMyAdmin using Docker Compose. The 
 - Persistent volume for MySQL data
 - Custom network for service communication
 
---
+---
 
 ## 📦 Setup Instructions
 
